@@ -77,5 +77,48 @@ const testSentimentAnalysis = async () => {
     }
 };
 
-testSentimentAnalysis();
+// testSentimentAnalysis();
 
+const processFeedback = async (employee) => {
+    let totalScore = 0; // Total skor feedback
+
+    for (const feedbackItem of employee.feedback) {
+        const sentimentResult = await analyzeSentiment(feedbackItem.feedback);
+
+        // Parsing hasil sentimen (untuk memastikan format konsisten)
+        const sentimentMatch = sentimentResult.match(/Sentimen: (\w+), Skor: (\d)/);
+        const sentiment = sentimentMatch ? sentimentMatch[1] : "Netral";
+        const score = sentimentMatch ? parseInt(sentimentMatch[2]) : 3;
+
+        // Menambahkan hasil analisis ke objek feedback
+        feedbackItem.sentiment = sentiment;
+        feedbackItem.score = score;
+
+        totalScore += score; // Menambahkan skor ke total
+    }
+
+    // Hitung rata-rata skor
+    const averageScore = totalScore / employee.feedback.length;
+    employee.averageScore = averageScore; // Simpan rata-rata skor ke objek karyawan
+};
+
+const evaluateEmployees = async (employees) => {
+    for (const employee of employees) {
+        console.log(`\nEvaluasi untuk ${employee.name}:`);
+        await processFeedback(employee); // Proses analisis sentimen untuk setiap feedback
+
+        // Cetak hasil setiap feedback
+        employee.feedback.forEach((feedbackItem, index) => {
+            console.log(`- Minggu ${index + 1}:`);
+            console.log(`  Feedback: "${feedbackItem.feedback}"`);
+            console.log(`  Sentimen: ${feedbackItem.sentiment}`);
+            console.log(`  Skor: ${feedbackItem.score}`);
+        });
+
+        // Cetak rata-rata skor
+        console.log(`Rata-rata Skor: ${employee.averageScore.toFixed(2)}`);
+        console.log("------------------------------------------------");
+    }
+};
+
+evaluateEmployees(employees);
