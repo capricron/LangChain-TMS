@@ -1,0 +1,4002 @@
+[
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kinerja di bawah ekspektasi pada beberapa tugas utama.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja standar, tidak ada masalah besar namun tidak ada keunggulan menonjol.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan kemampuan komunikasi yang sangat baik.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas selesai sesuai target, tetapi kualitas dapat ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Komunikasi cukup baik, namun ada kalanya kurang jelas dalam penyampaian.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tugas tidak selesai sesuai tenggat waktu yang ditentukan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja dalam tekanan dan tetap mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kinerja cukup baik, namun ada beberapa area yang perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan dengan hasil yang baik, namun sering membutuhkan supervisi tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering kurang konsisten, memengaruhi produktivitas tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Mampu bekerja mandiri dan memenuhi semua target yang telah ditetapkan.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering terlambat menyelesaikan tugas meskipun sudah diberikan perpanjangan waktu.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang inisiatif dalam mengambil tanggung jawab.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Selalu memberikan hasil yang melebihi ekspektasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Tugas diselesaikan tepat waktu, tetapi kurang detail.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kehadiran Anda di tim sangat membantu mencapai target.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Hasil kerja sering membutuhkan revisi besar.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Hasil kerja sesuai dengan ekspektasi, tetapi tidak ada inisiatif tambahan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Kinerja sangat memuaskan dan patut diapresiasi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Sering mengabaikan instruksi yang telah diberikan.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda menunjukkan inisiatif yang luar biasa dalam proyek terakhir.",
+        "label": "Positif"
+    },
+    {
+        "text": "Sering mengikuti arahan dengan baik, tetapi jarang memberikan ide baru.",
+        "label": "Netral"
+    },
+    {
+        "text": "Tidak menunjukkan kemajuan dalam beberapa proyek terakhir.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kehadiran sering tidak tepat waktu, sehingga menghambat tim.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Memberikan kontribusi besar dalam penyelesaian masalah tim.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran cukup baik, tetapi partisipasi dalam diskusi masih perlu ditingkatkan.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Anda selalu menyelesaikan tugas dengan tepat waktu dan kualitas tinggi.",
+        "label": "Positif"
+    },
+    {
+        "text": "Kehadiran di tim cukup, tetapi kontribusi belum maksimal.",
+        "label": "Netral"
+    },
+    {
+        "text": "Kurang komunikasi dengan tim yang menyebabkan miskomunikasi.",
+        "label": "Negatif"
+    },
+    {
+        "text": "Proaktif dalam membantu rekan kerja dan memberikan solusi.",
+        "label": "Positif"
+    }
+]
