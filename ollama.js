@@ -9,26 +9,26 @@ const employees = [
             { week: 4, feedback: "Sangat konsisten" }
         ]
     },
-    // {
-    //     name: "Santoso",
-    //     position: "Kontrak",
-    //     feedback: [
-    //         { week: 1, feedback: "Cukup baik, namun sering terlambat" },
-    //         { week: 2, feedback: "Cukup baik, kurang inisiatif" },
-    //         { week: 3, feedback: "Tidak menyelesaikan tugas tepat waktu" },
-    //         { week: 4, feedback: "Tugas selesai, namun lambat" }
-    //     ]
-    // },
-    // {
-    //     name: "Caca",
-    //     position: "Fulltime",
-    //     feedback: [
-    //         { week: 1, feedback: "Tidak hadir tanpa alasan" },
-    //         { week: 2, feedback: "Proyek tertunda" },
-    //         { week: 3, feedback: "Tidak ada perkembangan" },
-    //         { week: 4, feedback: "Performa buruk" }
-    //     ]
-    // }
+    {
+        name: "Santoso",
+        position: "Kontrak",
+        feedback: [
+            { week: 1, feedback: "Cukup baik, namun sering terlambat" },
+            { week: 2, feedback: "Cukup baik, kurang inisiatif" },
+            { week: 3, feedback: "Tidak menyelesaikan tugas tepat waktu" },
+            { week: 4, feedback: "Tugas selesai, namun lambat" }
+        ]
+    },
+    {
+        name: "Caca",
+        position: "Fulltime",
+        feedback: [
+            { week: 1, feedback: "Tidak hadir tanpa alasan" },
+            { week: 2, feedback: "Proyek tertunda" },
+            { week: 3, feedback: "Tidak ada perkembangan" },
+            { week: 4, feedback: "Performa buruk" }
+        ]
+    }
 ];
 
 
